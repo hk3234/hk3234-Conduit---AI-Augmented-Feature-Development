@@ -26,4 +26,4 @@ Automated tests are implemented using Selenium WebDriver and Python. To run the 
 - Navigate to the `test` directory.
 - Run `python task_1.py` to execute an article tags test.
 - Run `python task_2.py` to execute roster tests.
-- The tests will be executed in the Chrome browser, and the results will be printed to the terminal.
+- The tests will be executed in the Chrome browser, and the results will be printed to the terminal.# hk3234-Conduit---AI-Augmented-Feature-Development
